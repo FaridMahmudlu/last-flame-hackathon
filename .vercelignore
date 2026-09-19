@@ -1,0 +1,11 @@
+.git
+.expo
+.vercel
+node_modules
+test-results
+playwright-report
+coverage
+.env
+.env.*
+android
+ios
